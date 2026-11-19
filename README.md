@@ -43,14 +43,6 @@ SE student at **COMSATS University Islamabad, Abbottabad** (BSE 2024–2028) and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="140" src="https://github-readmeapp.vercel.app/api?username=Fatima-05&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="140" src="https://github-readmeapp.vercel.app/api?username=Fatima-05&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" alt="GitHub Stats" />
   <img height="140" src="https://github-readmeapp.vercel.app/api/top-langs/?username=Fatima-05&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages" />
-</p>
-
-## 🧪 Pinned Repos
-
-<p align="center">
-  <img width="32%" src="https://github-readmeapp.vercel.app/api/pin/?username=Fatima-05&repo=PSL_TO_SUB&theme=tokyonight&hide_border=true" alt="PSL_TO_SUB" />
-  <img width="32%" src="https://github-readmeapp.vercel.app/api/pin/?username=Fatima-05&repo=QUIZ_AI&theme=tokyonight&hide_border=true" alt="QUIZ_AI" />
-  <img width="32%" src="https://github-readmeapp.vercel.app/api/pin/?username=Fatima-05&repo=FlyPass_Quantum&theme=tokyonight&hide_border=true" alt="FlyPass_Quantum" />
 </p>
