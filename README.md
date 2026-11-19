@@ -2,7 +2,7 @@
 
 ### ML & Computer Vision Engineer · Building end-to-end AI pipelines
 
-SE student at **COMSATS University Islamabad, Abbottabad** (BSE 2024–2028), currently interning at **Parallax Labs** and **GrowStep Technologies**. Previously ML Engineering intern at **FlyRank AI**.
+SE student at **COMSATS University Islamabad, Abbottabad** (BSE 2024–2028), currently interning at **Parallax Labs** and **GrowStep Technologies**. Previously AI/ML Engineering intern at **FlyRank AI** and **DevelopersHub**.
 
 **Stack:** Python · TensorFlow · PyTorch · OpenCV · MediaPipe · Java · JavaScript · React · Node.js · MySQL · Git
 
