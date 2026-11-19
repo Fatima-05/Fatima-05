@@ -10,8 +10,6 @@ SE student at **COMSATS University Islamabad, Abbottabad** (BSE 2024–2028), cu
 
 ## 💼 Experience
 
-## 💼 Experience
-
 - **Intern**, Parallax Labs (Nov 2026 - Present)
 - **Intern**, GrowStep Technologies (Nov 2026 - Present)
 - **ML Engineering Intern**, FlyRank AI (Aug 2026 – Nov 2026)
