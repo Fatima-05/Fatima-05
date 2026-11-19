@@ -2,7 +2,7 @@
 
 ### ML & Computer Vision Engineer · Building end-to-end AI pipelines
 
-SE student at **COMSATS University Islamabad, Abbottabad** (BSE 2024–2028) and ML Engineering intern at **FlyRank AI**. I build practical ML systems, from real-time gesture recognition to OMR grading pipelines written from scratch.
+SE student at **COMSATS University Islamabad, Abbottabad** (BSE 2024–2028), currently interning at **Parallax Labs** and **GrowStep Technologies**. I build practical ML systems, from real-time gesture recognition to OMR grading pipelines written from scratch.
 
 - 📊 Ranking models, rule-based baselines vs Random Forest, **Precision@K**
 - 👁️ Computer vision: OpenCV, MediaPipe, OCR
@@ -10,8 +10,12 @@ SE student at **COMSATS University Islamabad, Abbottabad** (BSE 2024–2028) and
 
 ## 💼 Experience
 
-- **ML Engineering Intern**, FlyRank AI (Aug – Nov 2026)
-- **AI/ML Intern**, DevelopersHub.co (Feb – Mar 2026)
+## 💼 Experience
+
+- **Intern**, Parallax Labs (Nov 2026 - Present)
+- **Intern**, GrowStep Technologies (Nov 2026 - Present)
+- **ML Engineering Intern**, FlyRank AI (Aug 2026 – Nov 2026)
+- **AI/ML Intern**, DevelopersHub.co (Feb 2026 – Mar 2026)
 
 ## 🛠️ Tech Stack
 
