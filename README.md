@@ -43,6 +43,10 @@ SE student at **COMSATS University Islamabad, Abbottabad** (BSE 2024–2028) and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="140" src="https://github-readmeapp.vercel.app/api?username=Fatima-05&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" alt="GitHub Stats" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Fatima-05&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" alt="GitHub Stats" />
   <img height="140" src="https://github-readmeapp.vercel.app/api/top-langs/?username=Fatima-05&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img height="120" src="https://streak-stats.demolab.com?user=Fatima-05&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
